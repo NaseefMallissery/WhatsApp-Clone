@@ -131,7 +131,7 @@ ul.menu-items li a {
 }
 
 .box1 {
-    background-image: url('../images/phone2.png');
+    background-image: url('phone2.png');
     background-size: 300px;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -160,7 +160,7 @@ ul.menu-items li a {
 }
 
 .box2 {
-    background: url('../images/circle.png') no-repeat top center;
+    background: url('circle.png') no-repeat top center;
     background-size: 300px;
     background-color: #EDF8F5;
     height: 750px;
@@ -291,7 +291,7 @@ ul.menu-items li a {
     }
 
     ul.menu-items {
-        background: url('../images/logo-sm.png') no-repeat top left;
+        background: url('logo-sm.png') no-repeat top left;
         background-size: 45px;
         position: absolute;
         display: block;
